@@ -4,7 +4,7 @@ Game    = Farlight 84 (steam)
 */
 DWORD Gname   = 0x6645580
 DWORD Gworld  = 0x67b5080
-
+DWORD Objects = 0x665ddf0 
 DWORD PersistentLevel = 0x30; 
 DWORD OwningGameInstance = 0x220; 	
 DWORD LocalPlayers = 0x38;  
